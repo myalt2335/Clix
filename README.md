@@ -2,4 +2,4 @@
 
 Kind of esoteric image filetype.
 
-Only converts from png -> clix and vice versa as the intended goal. Has code for Jpgs though.
+Stores images as text rather than bytes. Does have an opcode byte form though. That is called Blix.
